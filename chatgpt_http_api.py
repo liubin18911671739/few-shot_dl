@@ -25,7 +25,7 @@ class ChatGPT:
 
 
 # 替换为您的API密钥
-api_key = "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"
+api_key = ""
 
 GPT3 = ChatGPT(api_key)
 
